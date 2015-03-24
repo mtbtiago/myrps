@@ -1,0 +1,1 @@
+Created after a JS exercise from my daughter's code.org studies.
